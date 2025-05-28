@@ -1,0 +1,56 @@
+{
+  "StaffMod:ManaTidePower": {
+    "NAME": "法力潮汐",
+    "DESCRIPTIONS": [
+      "不可叠加 NL 有法力时，获得法力额外获得 #b1 ,失去法力时减少失去 #b1 。"
+    ]
+  },
+  "StaffMod:ManaSourcePower": {
+    "NAME": "法力之源",
+    "DESCRIPTIONS": [
+      "回合开始时获得 #b",
+      " 点法力。"
+    ]
+  },
+  "StaffMod:ManaShieldPower": {
+    "NAME": "法力屏障",
+    "DESCRIPTIONS": [
+      "你在 #b",
+      " 回合内每受到一次攻击，获得 #b1 点法力。"
+    ]
+  },
+  "StaffMod:FullStrengthPower": {
+    "NAME": "全力全开",
+    "DESCRIPTIONS": [
+      "不可叠加 NL 全部牌都视为 #y魔法牌 。"
+    ]
+  },
+  "StaffMod:DoubleCastingPower": {
+    "NAME": "双重施法",
+    "DESCRIPTIONS": [
+      "在这个回合，你的下",
+      "张 #y魔法牌 会打出两次。"
+    ]
+  },
+  "StaffMod:BattleMageRingPower": {
+    "NAME": "战法师指环",
+    "DESCRIPTIONS": [
+      "有法力时每受到一次未被格挡攻击，消耗 #b1 点法力抵消 #b",
+      "点伤害。"
+    ]
+  },
+  "StaffMod:EvilWithinPower": {
+    "NAME": "恶灵附身",
+    "DESCRIPTIONS": [
+      "被施加恶灵附身时，减少 #b",
+      "点生命。"
+    ]
+  },
+  "StaffMod:NightmarePower": {
+    "NAME": "梦魇",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，给予所有敌人 #b",
+      "层 诅咒 。"
+    ]
+  }
+}

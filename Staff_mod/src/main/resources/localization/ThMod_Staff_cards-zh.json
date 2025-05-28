@@ -1,0 +1,197 @@
+{
+  "StaffMod:Strike": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "StaffMod:Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点格挡。"
+  },
+  "StaffMod:RestoreMana": {
+    "NAME": "法力恢复",
+    "DESCRIPTION": "获得 !M! 法力 。"
+  },
+  "StaffMod:Fireball": {
+    "NAME": "火球术",
+    "DESCRIPTION": "消耗1 法力 。 NL 造成 !D! 点伤害。"
+  },
+  "StaffMod:AcceleratedChanting": {
+    "NAME": "加速吟唱",
+    "DESCRIPTION": "消耗1 法力 。 NL 抽 !M! 张牌。"
+  },
+  "StaffMod:Dodge": {
+    "NAME": "闪避",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 抽 !M! 张牌。"
+  },
+  "StaffMod:SwordQi": {
+    "NAME": "剑气",
+    "DESCRIPTION": "消耗2 法力 。 NL 造成 !D! 点 贯穿 伤害。"
+  },
+  "StaffMod:NightmareHaunting": {
+    "NAME": "噩梦缠绕",
+    "DESCRIPTION": "消耗1 法力 。 NL 给予 99 层 易伤 和 99 层 虚弱 。"
+  },
+  "StaffMod:ManaTide": {
+    "NAME": "法力潮汐",
+    "DESCRIPTION": "不可叠加。有 法力 时 NL 获得 法力 额外获得 1 ，失去 法力 减少失去 1 。"
+  },
+  "StaffMod:ManaSource": {
+    "NAME": "法力之源",
+    "DESCRIPTION": "回合开始时获得 1 点 法力 。"
+  },
+  "StaffMod:DivineBuster": {
+    "NAME": "天神烈波",
+    "DESCRIPTION": "消耗2 法力 。 NL 对所有敌人造成 !D! 点 贯穿 伤害。"
+  },
+  "StaffMod:Wallop": {
+    "NAME": "当头一棒",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 获得与所造成的未被格挡的伤害相等的格挡。"
+  },
+  "StaffMod:Charge": {
+    "NAME": "充能",
+    "DESCRIPTION": "消耗1 法力 。 NL 获得 [E] 。",
+    "UPGRADE_DESCRIPTION": "消耗1 法力 。 NL 获得 [E] [E] 。"
+  },
+  "StaffMod:FrostArrow": {
+    "NAME": "冰箭",
+    "DESCRIPTION": "消耗1 法力 。 NL 造成 !D! 点伤害，给予 !M! 层易伤。"
+  },
+  "StaffMod:SelfUpgrade": {
+    "NAME": "自我升级",
+    "DESCRIPTION": "消耗2 法力 。 NL 升级牌组中的随机一张牌。"
+  },
+  "StaffMod:SecretMagic": {
+    "NAME": "秘密法术",
+    "DESCRIPTION": "从抽牌堆选择一张魔法牌放入你的手牌。",
+    "EXTENDED_DESCRIPTION": [
+      "我的抽牌堆中 NL 没有魔法牌。"
+    ]
+  },
+  "StaffMod:CeruleanHolyStrike": {
+    "NAME": "苍蓝圣击",
+    "DESCRIPTION": "造成 !D! 点伤害。受 法力值 !M! 倍影响。"
+  },
+  "StaffMod:DoubleFireball": {
+    "NAME": "双重火球",
+    "DESCRIPTION": "消耗1 法力 。 NL 造成 !D! 点伤害两次。"
+  },
+  "StaffMod:ManaShield": {
+    "NAME": "法力屏障",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 你在 !M! 回合内每受到一次攻击，获得1点 法力 。"
+  },
+  "StaffMod:Sacrifice": {
+    "NAME": "献祭",
+    "DESCRIPTION": "至多选择 !M! 张牌 消耗 ,获得其耗能的 法力 。"
+  },
+  "StaffMod:TripleFireball": {
+    "NAME": "三重火球",
+    "DESCRIPTION": "消耗2点 法力 。 NL 随机对敌人造成 !D! 点伤害 3 次。"
+  },
+  "StaffMod:FullStrength": {
+    "NAME": "全力全开",
+    "DESCRIPTION": "不可叠加 NL 全部牌都视为魔法牌。 NL 在你的弃牌堆中加入1张 *星光爆裂 。"
+  },
+  "StaffMod:DoubleCasting": {
+    "NAME": "双重施法",
+    "DESCRIPTION": "在这个回合，你打出的下 !M! 张魔法牌会打出两次。"
+  },
+  "StaffMod:WideAreaProtection": {
+    "NAME": "广御防御",
+    "DESCRIPTION": "获得 !B! 点 格挡 ，受 法力值 !M! 倍影响。"
+  },
+  "StaffMod:MagicBlindBox": {
+    "NAME": "魔法盲盒",
+    "DESCRIPTION": "增加一张随机魔法牌到你的手牌。这张牌在本回合耗能变为0。"
+  },
+  "StaffMod:ManaRecovery": {
+    "NAME": "法力回收",
+    "DESCRIPTION": "如果本场战斗打出的上一张打出的是魔法牌，获得 [E] 和 !M! 点 法力 ，抽 !M! 张牌。"
+  },
+  "StaffMod:TheWorld": {
+    "NAME": "时间魔法：TheWorld",
+    "DESCRIPTION": "消耗3 法力 ，本回合结束后，额外获得一回合。"
+  },
+  "StaffMod:MysteriousBook": {
+    "NAME": "不可思议书",
+    "DESCRIPTION": "在你的抽牌堆中加入 !M! 张随机魔法牌。 NL 它们在本场战斗中耗能为0。"
+  },
+  "StaffMod:BattleMageRing": {
+    "NAME": "战法师指环",
+    "DESCRIPTION": "有 法力 时每受到一次未被格挡攻击，消耗1点 法力 抵消 !M! 点伤害。"
+  },
+  "StaffMod:Overload": {
+    "NAME": "附魔",
+    "DESCRIPTION": "获得 !M! 点 力量 。"
+  },
+  "StaffMod:BasicShield": {
+    "NAME": "简易护盾",
+    "DESCRIPTION": "消耗1点 法力，获得 !B! 点 格挡 。 NL 打出后返回你的手牌,一回合内最多打出三次。 NL （本回合已打出 !M! 次）"
+  },
+  "StaffMod:Flashback": {
+    "NAME": "故技重施",
+    "DESCRIPTION": "获得1点 法力 。 NL 从弃牌堆选择一张非同名牌放入你的手牌。"
+  },
+  "StaffMod:BackupEnergy": {
+    "NAME": "后背隐藏能源",
+    "DESCRIPTION": " 不能被打出 。 NL 当没有法力时抽到这张牌，将其 消耗 。 NL 这张牌被 消耗 时获得 [E] 和 2 点 法力 。",
+    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 当没有法力时抽到这张牌，将其 消耗 。 NL 这张牌被 消耗 时获得 [E] [E] 和 4 点 法力 。"
+  },
+  "StaffMod:DivineShooter": {
+    "NAME": "天神照射",
+    "DESCRIPTION": "随机对敌人造成 !D! 点伤害X次。"
+  },
+  "StaffMod:SpellPreparation": {
+    "NAME": "施法准备",
+    "DESCRIPTION": "获得2点 法力 ，抽 !M! 张牌。"
+  },
+  "StaffMod:ArrowStorm": {
+    "NAME": "万箭齐发",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。"
+  },
+  "StaffMod:RestrictLock":{
+    "NAME": "禁锢枷锁",
+    "DESCRIPTION": "消耗1点 法力 ，使一名敌人本回合内失去 !M! 点 力量 。",
+    "UPGRADE_DESCRIPTION": "消耗1点 法力 ，使所有敌人本回合内失去 !M! 点 力量 。"
+  },
+  "StaffMod:SilentCasting": {
+    "NAME": "无吟唱魔法",
+    "DESCRIPTION": "抽法力值数张牌，根据抽到牌数消耗等量 法力 。"
+  },
+  "StaffMod:BottledCurse": {
+    "NAME": "瓶装诅咒",
+    "DESCRIPTION": "随机给予敌人3层 诅咒 !M! 次。"
+  },
+  "StaffMod:Healing": {
+    "NAME": "治疗术",
+    "DESCRIPTION": "消耗1点 法力 。 NL 获得 !M! 层 再生 。"
+  },
+  "StaffMod:CursedStrike": {
+    "NAME": "诅咒打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 诅咒 。"
+  },
+  "StaffMod:EmbraceDarkness": {
+    "NAME": "拥抱黑暗",
+    "DESCRIPTION": "获得 !B! 点 格挡 ，给予所有敌人 !M! 层 诅咒 2次。"
+  },
+  "StaffMod:StarlightBreaker": {
+    "NAME": "星光爆裂",
+    "DESCRIPTION": "消耗10点 法力 。 NL 对所有敌人造成其最大生命值的 贯穿 伤害。"
+  },
+  "StaffMod:MagicBullet": {
+    "NAME": "魔弹",
+    "DESCRIPTION": "消耗1点 法力，造成 !D! 点 伤害 。 NL 打出后返回你的手牌,一回合内最多打出三次。 NL （本回合已打出 !M! 次）"
+  },
+  "StaffMod:ChaosSpell": {
+    "NAME": "混沌法术",
+    "DESCRIPTION": "造成1~40随机点 贯穿 伤害。",
+    "UPGRADE_DESCRIPTION": "造成1~60随机点 贯穿 伤害。"
+  },
+  "StaffMod:Turbo": {
+    "NAME": "内核加速",
+    "DESCRIPTION": "获得 !M! 点法力。 NL 将一张 *虚空 放入你的弃牌堆中。"
+  },
+  "StaffMod:Nightmare": {
+    "NAME": "梦魇",
+    "DESCRIPTION": "在你的回合开始时，给予所有敌人 !M! 层 诅咒 。"
+  }
+}

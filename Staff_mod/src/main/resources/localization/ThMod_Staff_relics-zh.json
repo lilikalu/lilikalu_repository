@@ -1,0 +1,9 @@
+{
+  "StaffMod:DamagedCore": {
+    "NAME": "破损核心",
+    "FLAVOR": "一个受损但部分功能正常的法杖核心。",
+    "DESCRIPTIONS": [
+      "在每场战斗开始时，获得 2 点 法力 。"
+    ]
+  }
+}
